@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Introduction to MCMC}{2}{0}{1}
+\beamer@sectionintoc {2}{Neural Metropolis-Hastings}{6}{0}{2}
+\beamer@sectionintoc {3}{Experiments and Results}{10}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{17}{0}{4}
